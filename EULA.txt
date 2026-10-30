@@ -1,0 +1,41 @@
+REDTUNE END USER LICENSE AGREEMENT
+
+IMPORTANT - READ CAREFULLY. By installing, copying or using RedTune ("the Software") you agree to these
+terms. If you do not agree, do not install or use the Software.
+
+The Software is provided free of charge by its author ("Licensor"). It contains code licensed to Licensor by
+Advanced Micro Devices, Inc. ("AMD"), who is expressly made a third-party beneficiary of this Agreement.
+
+1. LICENSE. You are granted a non-exclusive, royalty-free, revocable, non-transferable, limited license to
+   install and use the Software solely in conjunction with AMD product-based systems or AMD components
+   (AMD Radeon graphics hardware).
+
+2. RESTRICTED LICENSE. The Software is subject to a restricted license and may only be used for that purpose.
+   You may not:
+   a) transfer, distribute, publish, sublicense or duplicate the Software, except for one reasonable backup
+      copy. Share the official download link instead of the files;
+   b) modify, reverse engineer, decompile or disassemble the Software, except as allowed by applicable law;
+   c) remove or alter any copyright, trademark or patent notice in the Software.
+
+3. NO WARRANTY. THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. LICENSOR AND ITS LICENSORS
+   (INCLUDING AMD) DISCLAIM ALL WARRANTIES, EXPRESS, IMPLIED OR STATUTORY, INCLUDING MERCHANTABILITY, FITNESS
+   FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT, AND ANY WARRANTY THAT THE SOFTWARE WILL RUN
+   UNINTERRUPTED OR ERROR-FREE. CHANGING GPU CLOCKS, VOLTAGE, POWER LIMITS OR FAN SETTINGS CAN CAUSE SYSTEM
+   INSTABILITY, CRASHES AND DATA LOSS. THE ENTIRE RISK OF USING THE SOFTWARE IS WITH YOU.
+
+4. LIMITATION OF LIABILITY. LICENSOR AND ITS LICENSORS (INCLUDING AMD) WILL NOT, UNDER ANY CIRCUMSTANCES, BE
+   LIABLE FOR ANY PUNITIVE, DIRECT, INCIDENTAL, INDIRECT, SPECIAL OR CONSEQUENTIAL DAMAGES ARISING FROM USE OF
+   THE SOFTWARE OR THIS AGREEMENT, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN NO EVENT SHALL THE
+   TOTAL LIABILITY OF LICENSOR OR ANY OF ITS LICENSORS EXCEED US $100.
+
+5. EXPORT. You will comply fully with all applicable export and import laws and regulations of the United
+   States and other countries, and will not export, re-export or transfer the Software in violation of them.
+
+6. UPDATES. This Agreement applies to the Software as originally distributed and to all updates you later
+   install, use or access.
+
+7. TERMINATION. This Agreement terminates automatically if you fail to comply with it. You must then delete
+   all copies of the Software.
+
+8. TRADEMARKS. AMD and Radeon are trademarks of Advanced Micro Devices, Inc. RedTune is an independent project
+   and is not affiliated with, endorsed by or sponsored by AMD.
